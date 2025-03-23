@@ -1,0 +1,4 @@
+Title: AI in Healthcare
+
+Artificial Intelligence (AI) is transforming the healthcare industry by improving diagnosis, patient care, and research. 
+Machine learning models help detect diseases at an early stage, and AI-powered chatbots assist in patient communication.
